@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-var value=Math.random();
+var value=Math.random()*10;
 console.log(value);
 var s= Math.log2()  ;
  
